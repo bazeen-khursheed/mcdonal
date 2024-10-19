@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.bazeen{
+    width: 90px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    font-size: 16px;
+    margin-left: 60px;
+    gap: 80px;
+}
+
+.navbar-10{
+    display: flex;
+}
+.main2{
+    margin-left: 200px;
+    display: flex;
+    gap: 80px;
+}
+.btn{
+    width: 180px;
+    height: 40px;
+    padding: 4px;
+    margin-left: 10px;
+    background-color: #face0c;
+    border: none;
+    border-radius: 7px;
+}
+.main3{
+    display: flex;
+    align-items: center; 
+    gap: 40px;
+    margin-left: 210px;
+    font-size: 15px;
+    position: relative; bottom: 40px;
+}
+.chick{
+    margin-left: 40px;
+}
+.crunch{
+    position: relative; bottom: 345px;
+    background-color: white;
+    width: 390px;
+    border-radius: 06px;
+    height: 260px;
+    margin-left: 80px;
+}
+.crunch h1{
+   padding-top: 20px;
+   padding-left: 20px; 
+   font-size: 30px;
+}
+.crunch p{
+    
+    padding-left: 20px; 
+}
+.order{
+    margin-top: 15px;
+    margin-left: 20px; 
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+}
+.hole{
+    display: flex;
+    gap: 5px;
+    margin-top: 22px;
+    margin-left: 22px;
+    
+}
+.hole :hover{
+    background-color: red;
+}
+.hole1{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    
+    border-radius: 40px;
+}
+.hole2{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+   
+    border-radius: 40px;
+}
+.hole3{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+   
+    border-radius: 40px;
+}
+.hole4{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    
+    border-radius: 40px;
+}
+.hole5{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    color: gray;
+    border-radius: 40px;
+}
+.hole6{
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+ 
+    border-radius: 40px;
+}
+.cafe{
+    width: 380px;
+    height: 200px;
+}
+.box h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.box p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.box button{
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.box{
+    border: 1px solid grey;
+    width: 380px;
+    height: 500px;
+   margin-right: 20px;
+}
+.box1 h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.box1 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.box1 button{
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.box1{
+    border: 1px solid grey;
+    width: 380px;
+    height: 500px;
+    margin-right: 20px;
+}
+.box2 h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.box2 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.box2 button{
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.box2{
+    border: 1px solid grey;
+    width: 380px;
+    height: 500px;
+}
+.first{
+    display: flex;
+    align-items: center;
+    margin-top: 180px;
+    position: relative; right: 40px;
+}
+.sec{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    position: relative; right: 40px;
+}
+.box3 h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.box3 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 17px;
+    margin-right: 10px;
+}
+.box3 button{
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.box3{
+    border: 1px solid grey;
+    width: 380px;
+    height: 500px;
+}
+.box4 h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.box4 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 17px;
+    margin-right: 10px;
+}
+.box4 button{
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.box4{
+    border: 1px solid grey;
+    width: 380px;
+    height: 500px;
+    margin-left: 20px;
+}
+.box5 h1{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
+.box5 p{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 17px;
+    margin-right: 10px;
+}
+.box5 button{
+    background-color: #face0c;
+    border: none;
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+.box5{
+    border: 1px solid grey;
+    width: 380px;
+    height: 500px;
+    margin-left: 20px;
+}
+.career{
+    display: flex;
+    gap: 170px;
+    margin-top: 100px;
+}
+.c1 h1{
+    font-size: 20px;
+}
+.c2 h1{
+    font-size: 20px;
+}
+.c3 h1{
+    font-size: 20px;
+}
+.c4 h1{
+    font-size: 20px;
+}
+.icon{
+    margin-top: 40px;
+  position: relative; top: 70px;
+   gap: 80px;
+}
+#face{
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 20px;
+
+}
+#twi{
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-left: 20px;
+
+}
+#insta{
+    border: 2px solid gray;
+    width: 30px;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 40px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    margin-left: 20px;
+    
+}
+#link{
+    border: 2px solid gray;
+    width: 30px;
+    margin-left: 20px;
+    height: 30px;
+    border-radius: 40px;
+  padding-bottom: 10px;
+ padding-top: 5px;
+ padding-left: 5px;
+}
+#tiktok{
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 40px;
+  padding-bottom: 10px;
+ padding-top: 5px;
+ padding-left: 5px;
+}
+
+#you{
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+  padding-bottom: 10px;
+  margin-left: 20px;
+ padding-top: 5px;
+ padding-left: 5px;
+}
+.google{
+     width: 200px;  
+     height: 100px;
+}
+.store{
+    width: 180px;
+    height: 70px;
+    margin-top: 15px;
+}
+.apps{
+    display: flex;
+    margin-left: 760px;
+    
+}
+hr{
+    width: 1130px;
+}
+.para{
+    margin-top: 80px;
+    display: flex;
+    gap: 60px;
+    font-size: 10px;
+}
+.para p{
+    font-size: 16px;
+}
+.mac{
+    width: 30px;
+    margin-left: 760px;
+    position: relative; bottom: 50px;
+}
+.last p{
+   position: relative; left: 778px; bottom: 90px;
+   margin-bottom: 30px;
+}
